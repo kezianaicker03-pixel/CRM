@@ -1,0 +1,6 @@
+{
+  "name": "Google Workspace CRM",
+  "description": "A simple, free CRM connected with Google Forms, Google Sheets, and Gmail automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
